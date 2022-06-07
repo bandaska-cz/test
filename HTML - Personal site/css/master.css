@@ -1,0 +1,31 @@
+body {
+  background-color: #ECE5C7;
+}
+
+hr {
+  background-color: #ECE5C7;
+  border-style: dotted none none none;
+  border-color: #CDC2AE;
+  width: 60px;
+  border-width: 5px;
+}
+
+h1 {
+  color: #354259;
+}
+
+h2 {
+  color: #CDC2AE;
+}
+
+h3 {
+  color: #354259;
+}
+
+p {
+  color: #354259;
+}
+
+a[href] {
+  color: #7D1E6A;
+}
